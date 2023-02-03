@@ -5,6 +5,8 @@
 - 💬 Ask me about The Grateful Dead
 - 📫 How to reach me: https://www.linkedin.com/in/gordon-karlsson-b4b495251
 - 😄 Pronouns: He/Him/His
+
+![Gordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpkarlsson)
 <!--
 **gpkarlsson/gpkarlsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
