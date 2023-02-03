@@ -1,4 +1,4 @@
-### Hi there! I'm Gordon Karlsson. I am a student of the University of Wisconsin Full Stack Web Development Bootcamp, currently working as a Software Engineering Technician.
+### Hi there! I'm Gordon Karlsson. I am a student in the University of Wisconsin Full Stack Web Development Bootcamp, currently working as a Software Engineering Technician.
 
 - 🌱 I’m currently learning Jest, Mocha.js, Chai.js, Express.js, and Selenium
 - ⚡ Fun fact: I'm learning to ride a unicycle!
