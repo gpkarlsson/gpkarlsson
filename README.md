@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, Vite.js, Next.js and MERN Stack.
 - ⚡ Fun fact: I'm learning to ride a unicycle!
 - 💬 Ask me about The Grateful Dead
-- 📫 How to reach me: https://www.linkedin.com/in/gordon-karlsson-b4b495251
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gordon-karlsson-b4b495251)
 - 😄 Pronouns: He/Him/His
 
 <img src="https://github-readme-stats.vercel.app/api?username=gpkarlsson" style="width: 100%"></img>
