@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Angular, React, Vite, and TypeScript.
 - ⚡ Fun fact: I'm learning to ride a unicycle!
-- 💬 Ask me about The Grateful Dead
+- 💬 Ask me about the Grateful Dead
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gordon-karlsson-b4b495251), [Email](mailto:gpkarlsson@proton.me)
 - 😄 Pronouns: He/Him/His
 <!-- ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![ -->
