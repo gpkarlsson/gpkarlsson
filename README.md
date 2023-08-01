@@ -1,4 +1,4 @@
-### Hi there! I'm Gordon Karlsson. I started learning to write code for web development in fall of 2022 and have loved it ever since! I recently graduated from the 2022-2023 University of Wisconsin Full Stack Web Development Bootcamp, and am currently working as a Software Engineering Technician.
+### Hi there! I'm Gordon Karlsson. I started learning web development in fall of 2022 and have loved it ever since! I recently graduated from the 2022-2023 University of Wisconsin Full Stack Web Development Bootcamp, and am currently working as a Software Engineering Technician.
 
 - 🌱 I’m currently learning Angular, React, Vite, and TypeScript.
 - ⚡ Fun fact: I'm learning to ride a unicycle!
