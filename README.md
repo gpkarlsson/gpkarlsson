@@ -1,6 +1,6 @@
 ### Hi there! I'm Gordon Karlsson. I started learning web development in fall of 2022 and have loved it ever since! I recently graduated from the 2022-2023 University of Wisconsin Full Stack Web Development Bootcamp, and am currently working as a Software Engineering Technician.
 
-- 🌱 I’m currently learning Angular, React, Vite, and TypeScript.
+- 🌱 I’m currently learning Python, Angular, React, Vite, and TypeScript.
 - ⚡ Fun fact: I'm learning to ride a unicycle!
 - 💬 Ask me about the Grateful Dead
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gordon-karlsson-b4b495251), [Email](mailto:gpkarlsson@proton.me)
